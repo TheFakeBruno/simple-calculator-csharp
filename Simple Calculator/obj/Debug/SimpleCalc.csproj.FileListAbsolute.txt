@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\obj\Debug\SimpleCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.SimpleCalculator.resources
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\obj\Debug\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Bruno\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
